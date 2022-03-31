@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Masielmh
+- 👋 Hi, I’m Masiel
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on building websites or learning together
